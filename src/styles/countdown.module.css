@@ -116,6 +116,12 @@
     }
 }
 
+@media (max-height: 506px){
+    .minutes{
+        font-size: 1.8rem;
+    }
+}
+
 @media (max-width: 414px){
     .minutes{
         width: 35vw;
