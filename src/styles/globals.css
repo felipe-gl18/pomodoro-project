@@ -11,7 +11,11 @@ body{
   align-items: center;
 
   height: 100vh;
- background: rgb(71, 67, 65);
+  width: 100vw;
+  
+  background: url('/svg/backspace.svg');
+  background-position: bottom;
+  background-repeat: no-repeat;
   
 }
 
