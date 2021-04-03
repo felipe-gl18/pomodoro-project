@@ -17,7 +17,7 @@ export const IntervalContext = createContext({} as IntervalData);
 let intervalCount : NodeJS.Timeout; 
 
 export function IntervalProvider({children}: IntervalProps){
-    const [intervalTime, setIntervalTime] = useState(0.1*60);
+    const [intervalTime, setIntervalTime] = useState(5*60);
     const [intervalActive, setIntervalActive] = useState(false);
 
     const minutes = Math.floor(intervalTime/60);
