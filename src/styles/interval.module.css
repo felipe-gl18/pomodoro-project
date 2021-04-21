@@ -130,7 +130,19 @@
         font-size: 1rem;
     }
     .isnotactive img{
-        width: 15vw;
+        width: 13vh;
+    }
+}
+
+@media (max-height: 330px){
+    .interval h4{
+        font-size: 1rem;
+    }
+    .interval p{
+        font-size: 0.8rem;
+    }
+    .isnotactive img{
+        width: 13vh;
     }
 }
 
