@@ -1,4 +1,4 @@
-![Uploading pomodoro.PNG…]()
+![pomodoro](https://user-images.githubusercontent.com/68077242/116945477-226e1b80-ac4e-11eb-96cc-16bba6984f39.PNG)
 
 
 
